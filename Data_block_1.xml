@@ -8,7 +8,7 @@
           <Section Name="Static">
             <Member Name="Variable1" Datatype="Bool" />
             <Member Name="Variable2" Datatype="Int">
-              <StartValue>16</StartValue>
+              <StartValue>164</StartValue>
             </Member>
           </Section>
         </Sections>
