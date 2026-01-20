@@ -1,0 +1,10 @@
+﻿ORGANIZATION_BLOCK "CyclicInterrupt"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+
+BEGIN
+	IF 1 THEN
+	    ;
+	END_IF;
+END_ORGANIZATION_BLOCK
+
