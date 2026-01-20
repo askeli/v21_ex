@@ -1,27 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Document>
   <Engineering version="V21" />
-  <SW.Blocks.GlobalDB ID="1">
+  <SW.Blocks.GlobalDB ID="0">
     <AttributeList>
       <Interface>
         <Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
           <Section Name="Static">
-            <Member Name="Variable3" Datatype="Bool" />
-            <Member Name="Variable4" Datatype="Int">
-              <StartValue>164</StartValue>
-            </Member>
+            <Member Name="var1" Datatype="Bool" />
           </Section>
         </Sections>
       </Interface>
       <MemoryLayout>Optimized</MemoryLayout>
       <MemoryReserve>100</MemoryReserve>
-      <Name>Data_block_2</Name>
+      <Name>Data_block_11</Name>
       <Namespace />
-      <Number>1</Number>
+      <Number>2</Number>
       <ProgrammingLanguage>DB</ProgrammingLanguage>
     </AttributeList>
     <ObjectList>
-      <MultilingualText ID="2" CompositionName="Comment">
+      <MultilingualText ID="1" CompositionName="Comment">
         <ObjectList>
           <MultilingualTextItem ID="2" CompositionName="Items">
             <AttributeList>
