@@ -21,7 +21,7 @@
       <ProgrammingLanguage>DB</ProgrammingLanguage>
     </AttributeList>
     <ObjectList>
-      <MultilingualText ID="1" CompositionName="Comment">
+      <MultilingualText ID="2" CompositionName="Comment">
         <ObjectList>
           <MultilingualTextItem ID="2" CompositionName="Items">
             <AttributeList>
