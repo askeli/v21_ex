@@ -15,7 +15,7 @@
       </Interface>
       <MemoryLayout>Optimized</MemoryLayout>
       <MemoryReserve>100</MemoryReserve>
-      <Name>Data_block_1</Name>
+      <Name>Data_block_2</Name>
       <Namespace />
       <Number>1</Number>
       <ProgrammingLanguage>DB</ProgrammingLanguage>
